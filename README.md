@@ -52,6 +52,7 @@ Los servicios se levantaron para:
 
 La página presenta información simple de comprender sobre el tema y algunas estadísticas encontradas en las bases de datos utilizadas, aunque si se desea saber un poco más a detalle se recomienda navegar en el sitio web de donde se obtuvieron los datos.
 El resultado final del proyecto elaborado es el siguiente. También se muestran algunas capturas de cómo se aprecia la página en modo responsivo.
+La página web puede visitarse en el siguiente enlace: https://pescailegal-mexico.azurewebsites.net/ 
 
 ![Página](https://github.com/zuturito/Hackathon-HackTheOcean-launchX/blob/main/Screenshots/1.jpg)
 ![Página2](https://github.com/zuturito/Hackathon-HackTheOcean-launchX/blob/main/Screenshots/2.jpg)
