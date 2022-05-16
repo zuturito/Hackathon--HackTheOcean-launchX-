@@ -43,7 +43,7 @@ header .menu {
 header .menu a {
   color: white;
   font-size: 15px;
-  font-weight: 300;
+  font-weight: bold;
   display: inline-block;
   margin: 40px 20px;
   text-decoration: none;
