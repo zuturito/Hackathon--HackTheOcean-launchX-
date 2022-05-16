@@ -2,6 +2,7 @@
 Repositorio de entrega para el Hackathon llamado "Hack the Ocean" del curso de LaunchX - 2022
 
 ## Integrantes
+**Nombre del equipo**: La obra Negra (En honor al "_mai_" jaja).
 1. Francisco Sánchez : launchx11250@innovaccion.mx
 2. Aldair Montaño : launchx05226@innovaccion.mx
 3. Francisco Javier Rodríguez : launchx08765@innovaccion.mx
